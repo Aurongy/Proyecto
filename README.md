@@ -1,2 +1,4 @@
 # Proyecto
-Primer proyecto en Algoritmo
+
+
+## Primer proyecto en el curso de Algoritmo
